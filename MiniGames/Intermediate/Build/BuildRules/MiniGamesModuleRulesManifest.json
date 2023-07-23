@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\GitHub\\MiniGames\\MiniGames\\Source\\MiniGames\\MiniGames.Build.cs",
+		"D:\\Unreal Projects\\GitHub\\MiniGames\\MiniGames\\Source\\MiniGames.Target.cs",
+		"D:\\Unreal Projects\\GitHub\\MiniGames\\MiniGames\\Source\\MiniGamesEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}

@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MiniGames.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\MiniGamesEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\Development\MiniGames\MiniGames.init.gen.cpp.obj"
+"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\Development\MiniGames\MiniGamesGameModeBase.gen.cpp.obj"
+"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\Development\MiniGames\MiniGames.cpp.obj"
+"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\Development\MiniGames\MiniGamesGameModeBase.cpp.obj"
+"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\Development\MiniGames\Default.rc2.res"
+/OUT:"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\Development\MiniGames\UnrealEditor-MiniGames.lib"
