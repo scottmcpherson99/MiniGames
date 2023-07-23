@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MiniGames.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\MiniGamesEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\Development\MiniGames\GM_CoinPickup.gen.cpp.obj"
+"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\Development\MiniGames\MiniGames.init.gen.cpp.obj"
+"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\Development\MiniGames\PickUpBase.gen.cpp.obj"
+"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\Development\MiniGames\PlayerCharacter.gen.cpp.obj"
+"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\Development\MiniGames\UCoinPickup.gen.cpp.obj"
+"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\Development\MiniGames\UCoinPickUpEndGame.gen.cpp.obj"
+"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\Development\MiniGames\MiniGames.cpp.obj"
+"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\Development\MiniGames\GM_CoinPickup.cpp.obj"
+"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\Development\MiniGames\PickUpBase.cpp.obj"
+"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\Development\MiniGames\PlayerCharacter.cpp.obj"
+"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\Development\MiniGames\UCoinPickup.cpp.obj"
+"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\Development\MiniGames\UCoinPickUpEndGame.cpp.obj"
+"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\Development\MiniGames\Default.rc2.res"
+/OUT:"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\Development\MiniGames\UnrealEditor-MiniGames.lib"

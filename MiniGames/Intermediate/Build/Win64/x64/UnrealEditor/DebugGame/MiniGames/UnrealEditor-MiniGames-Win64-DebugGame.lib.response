@@ -1,0 +1,25 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MiniGames-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\MiniGamesEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MiniGames\CoinPickup.gen.cpp.obj"
+"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MiniGames\GM_CoinPickup.gen.cpp.obj"
+"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MiniGames\MiniGames.init.gen.cpp.obj"
+"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MiniGames\PickUpBase.gen.cpp.obj"
+"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MiniGames\PlayerCharacter.gen.cpp.obj"
+"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MiniGames\UCoinPickup.gen.cpp.obj"
+"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MiniGames\UCoinPickUpEndGame.gen.cpp.obj"
+"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MiniGames\MiniGames.cpp.obj"
+"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MiniGames\GM_CoinPickup.cpp.obj"
+"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MiniGames\CoinPickup.cpp.obj"
+"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MiniGames\PickUpBase.cpp.obj"
+"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MiniGames\PlayerCharacter.cpp.obj"
+"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MiniGames\UCoinPickup.cpp.obj"
+"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MiniGames\UCoinPickUpEndGame.cpp.obj"
+"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MiniGames\Default.rc2.res"
+/OUT:"D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MiniGames\UnrealEditor-MiniGames-Win64-DebugGame.lib"

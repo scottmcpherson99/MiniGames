@@ -17,13 +17,13 @@ void EmptyLinkFunctionForGeneratedCodeMiniGames_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xDE9A56D6,
-				0x2E3C8CBD,
+				0xA821C266,
+				0xED9EF868,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_MiniGames.OuterSingleton, PackageParams);
 		}
 		return Z_Registration_Info_UPackage__Script_MiniGames.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_MiniGames(Z_Construct_UPackage__Script_MiniGames, TEXT("/Script/MiniGames"), Z_Registration_Info_UPackage__Script_MiniGames, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xDE9A56D6, 0x2E3C8CBD));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_MiniGames(Z_Construct_UPackage__Script_MiniGames, TEXT("/Script/MiniGames"), Z_Registration_Info_UPackage__Script_MiniGames, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xA821C266, 0xED9EF868));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

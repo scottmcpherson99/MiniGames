@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\github\\minigames\\minigames\\intermediate\\build\\win64\\unrealeditor\\inc\\minigames\\uht\\minigames.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\github\\minigames\\minigames\\intermediate\\build\\win64\\x64\\minigameseditor\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\github\\minigames\\minigames\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\minigames\\definitions.minigames.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

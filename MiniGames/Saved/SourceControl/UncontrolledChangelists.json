@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Projects/GitHub/MiniGames/MiniGames/Content/Assets/CoinPickup/moneda_de_mario.uasset",
+				"D:/Unreal Projects/GitHub/MiniGames/MiniGames/Content/Assets/CoinPickup/SM_Coin.uasset",
+				"D:/Unreal Projects/GitHub/MiniGames/MiniGames/Content/Assets/CoinPickup/Mesh/SM_Coin.uasset",
+				"D:/Unreal Projects/GitHub/MiniGames/MiniGames/Content/Assets/CoinPickup/Materials/M_Coin.uasset",
+				"D:/Unreal Projects/GitHub/MiniGames/MiniGames/Content/Maps/Map_CoinPickup.umap"
+			]
+		}
+	]
+}

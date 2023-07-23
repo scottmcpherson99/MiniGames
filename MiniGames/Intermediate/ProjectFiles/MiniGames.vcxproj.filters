@@ -11,6 +11,7 @@
     <None Include="..\..\Source\MiniGamesEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -38,11 +39,71 @@
     <ClInclude Include="..\..\Source\MiniGames\MiniGames.h">
       <Filter>Source\MiniGames</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\Source\MiniGames\MiniGamesGameModeBase.cpp">
-      <Filter>Source\MiniGames</Filter>
+    <Filter Include="Source\MiniGames\Private">
+      <UniqueIdentifier>{BF022E86-0F38-390B-BE2C-D41652865575}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\MiniGames\Private\GameSettings">
+      <UniqueIdentifier>{5A6984D7-395A-369B-A1CE-66C62749E1CB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MiniGames\Private\GameSettings\GM_CoinPickup.cpp">
+      <Filter>Source\MiniGames\Private\GameSettings</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\MiniGames\MiniGamesGameModeBase.h">
-      <Filter>Source\MiniGames</Filter>
+    <Filter Include="Source\MiniGames\Private\Pickups">
+      <UniqueIdentifier>{2AAAA847-37DC-3266-AA08-4DC5C8DB60F6}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MiniGames\Private\Pickups\CoinPickup.cpp">
+      <Filter>Source\MiniGames\Private\Pickups</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MiniGames\Private\Pickups\PickUpBase.cpp">
+      <Filter>Source\MiniGames\Private\Pickups</Filter>
+    </ClCompile>
+    <Filter Include="Source\MiniGames\Private\PlayerCharacter">
+      <UniqueIdentifier>{02FF2543-DA80-3359-962C-813473F435D3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MiniGames\Private\PlayerCharacter\PlayerCharacter.cpp">
+      <Filter>Source\MiniGames\Private\PlayerCharacter</Filter>
+    </ClCompile>
+    <Filter Include="Source\MiniGames\Private\UI">
+      <UniqueIdentifier>{52B486F2-923B-3FA2-8A39-41907C84C09F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MiniGames\Private\UI\UCoinPickup.cpp">
+      <Filter>Source\MiniGames\Private\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MiniGames\Private\UI\UCoinPickUpEndGame.cpp">
+      <Filter>Source\MiniGames\Private\UI</Filter>
+    </ClCompile>
+    <Filter Include="Source\MiniGames\Public">
+      <UniqueIdentifier>{8F105668-4289-3EDE-B146-39300CF7D5EE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\MiniGames\Public\GameSettings">
+      <UniqueIdentifier>{CF4D8D67-CE44-3A75-9183-8253D42F9B5B}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\MiniGames\Public\GameSettings\GM_CoinPickup.h">
+      <Filter>Source\MiniGames\Public\GameSettings</Filter>
+    </ClInclude>
+    <Filter Include="Source\MiniGames\Public\Pickups">
+      <UniqueIdentifier>{EAD2C02B-C2D0-30B5-8DA0-9876C4F426C0}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\MiniGames\Public\Pickups\CoinPickup.h">
+      <Filter>Source\MiniGames\Public\Pickups</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MiniGames\Public\Pickups\PickUpBase.h">
+      <Filter>Source\MiniGames\Public\Pickups</Filter>
+    </ClInclude>
+    <Filter Include="Source\MiniGames\Public\PlayerCharacter">
+      <UniqueIdentifier>{C047F2B8-B2ED-3DB8-AB74-A5D280223ACD}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\MiniGames\Public\PlayerCharacter\PlayerCharacter.h">
+      <Filter>Source\MiniGames\Public\PlayerCharacter</Filter>
+    </ClInclude>
+    <Filter Include="Source\MiniGames\Public\UI">
+      <UniqueIdentifier>{FFCDFB80-A4BF-3DBF-946D-CC347F63F05B}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\MiniGames\Public\UI\UCoinPickup.h">
+      <Filter>Source\MiniGames\Public\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MiniGames\Public\UI\UCoinPickUpEndGame.h">
+      <Filter>Source\MiniGames\Public\UI</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

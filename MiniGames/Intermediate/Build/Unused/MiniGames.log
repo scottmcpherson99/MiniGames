@@ -1,0 +1,44 @@
+﻿  Using bundled DotNet SDK version: 6.0.302
+  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" MiniGamesEditor Win64 DebugGame -Project="D:\Unreal Projects\GitHub\MiniGames\MiniGames\MiniGames.uproject" -WaitMutex -FromMsBuild
+  Log file: C:\Users\scott\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal Projects\GitHub\MiniGames).
+  Creating makefile for MiniGamesEditor (no existing makefile)
+  Parsing headers for MiniGamesEditor
+    Running Internal UnrealHeaderTool "D:\Unreal Projects\GitHub\MiniGames\MiniGames\MiniGames.uproject" "D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\MiniGamesEditor\DebugGame\MiniGamesEditor.uhtmanifest" -WarningsAsErrors -installed
+  Total of 0 written
+  Reflection code generated for MiniGamesEditor in 0.8465826 seconds
+  Building MiniGamesEditor...
+  Using Visual Studio 2022 14.35.32216 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Upgrade]
+  [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+  [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_1
+  [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_2;' in MiniGamesEditor.Target.cs.
+  [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+  [Upgrade]
+  Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+    Executing up to 8 processes, one per physical core
+    Requested 1.5 GB free memory per action, 3.8 GB available: limiting max parallel actions to 2
+  Building 19 actions with 2 processes...
+  [1/19] Resource Default.rc2
+  [2/19] Compile [x64] SharedPCH.Engine.NonOptimized.ShadowErrors.InclOrderUnreal5_1.cpp
+  [3/19] Compile [x64] MiniGames.cpp
+  [4/19] Compile [x64] GM_CoinPickup.cpp
+  [5/19] Compile [x64] PickUpBase.cpp
+  [6/19] Compile [x64] MiniGames.init.gen.cpp
+  [7/19] Compile [x64] CoinPickup.cpp
+  [8/19] Compile [x64] UCoinPickUpEndGame.gen.cpp
+  [9/19] Compile [x64] UCoinPickup.gen.cpp
+  [10/19] Compile [x64] CoinPickup.gen.cpp
+  [11/19] Compile [x64] GM_CoinPickup.gen.cpp
+  [12/19] Compile [x64] PlayerCharacter.cpp
+  [13/19] Compile [x64] PickUpBase.gen.cpp
+  [14/19] Compile [x64] PlayerCharacter.gen.cpp
+  [15/19] Compile [x64] UCoinPickUpEndGame.cpp
+  [16/19] Compile [x64] UCoinPickup.cpp
+  [17/19] Link [x64] UnrealEditor-MiniGames-Win64-DebugGame.lib
+     Creating library D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MiniGames\UnrealEditor-MiniGames-Win64-DebugGame.lib and object D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MiniGames\UnrealEditor-MiniGames-Win64-DebugGame.exp
+  [18/19] Link [x64] UnrealEditor-MiniGames-Win64-DebugGame.dll
+     Creating library D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MiniGames\UnrealEditor-MiniGames-Win64-DebugGame.suppressed.lib and object D:\Unreal Projects\GitHub\MiniGames\MiniGames\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MiniGames\UnrealEditor-MiniGames-Win64-DebugGame.suppressed.exp
+  [19/19] WriteMetadata MiniGamesEditor-Win64-DebugGame.target
+  Total time in Parallel executor: 42.13 seconds
+  Total execution time: 44.58 seconds
